@@ -1,4 +1,4 @@
-# Nexus-
+# Nexus
 
 A powerful tool to generate and create ASCII art effortlessly.
 
@@ -8,7 +8,6 @@ Nexus- is a versatile ASCII art generation tool designed to convert images and t
 
 ## ✨ Features
 
-- **Image to ASCII Conversion** - Transform images into ASCII art
 - **Text Styling** - Create ASCII art from text input
 - **Customizable Output** - Adjust character sets and output formatting
 - **High-Quality Results** - Produce detailed ASCII art with various quality levels
@@ -24,13 +23,10 @@ cd Nexus-
 ```
 
 ### Basic Usage
-
-```bash
-# Convert an image to ASCII art
-nexus- input.jpg
+```
 
 # Convert text to ASCII art
-nexus- --text "Hello World"
+pyton3 nexus.py "Example"@
 ```
 
 ## 📖 Documentation
@@ -45,8 +41,6 @@ For more detailed usage instructions and examples, please refer to the [document
 ## 💡 Examples
 
 ### Image Conversion
-```bash
-nexus- image.png --width 80 --height 40
 ```
 
 ### Text Art
@@ -65,7 +59,3 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **whiteskyxd**
-
----
-
-**Happy ASCII Creating! 🎨**
