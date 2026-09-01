@@ -23,10 +23,9 @@ cd Nexus
 ```
 
 ### Basic Usage
-```
-
+```bash
 # Convert text to ASCII art
-pyton3 nexus.py "Example"
+python3 nexus.py "Example"
 ```
 
 ## 📖 Documentation
