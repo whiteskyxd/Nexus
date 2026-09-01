@@ -18,15 +18,15 @@ Nexus- is a versatile ASCII art generation tool designed to convert images and t
 ### Installation
 
 ```bash
-git clone https://github.com/whiteskyxd/Nexus-.git
-cd Nexus-
+git clone https://github.com/whiteskyxd/Nexus
+cd Nexus
 ```
 
 ### Basic Usage
 ```
 
 # Convert text to ASCII art
-pyton3 nexus.py "Example"@
+pyton3 nexus.py "Example"
 ```
 
 ## 📖 Documentation
@@ -43,9 +43,8 @@ For more detailed usage instructions and examples, please refer to the [document
 ### Image Conversion
 ```
 
-### Text Art
 ```bash
-nexus- --text "ASCII Art" --font standard
+python3 Nexus.py "Example" -f standard
 ```
 
 ## 🤝 Contributing
